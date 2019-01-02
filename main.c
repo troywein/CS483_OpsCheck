@@ -1,3 +1,12 @@
+/** main.c
+ * =============================================================
+ * Name:
+ * Section:
+ * Project: CS483 Ops Check
+ * Documentation Statement: N/A
+ * =============================================================
+ */
+
 #include <stdio.h>
 #include <math.h>
 
